@@ -1,0 +1,1 @@
+Docker based on nginx, php, mysql images. Php image has composer. You can use this docker for laravel projects as well. Unzip/clone files in the root directory. Change docker-compose, configs in the docker directory and start docker by ./docker/start_docker.sh
